@@ -27,9 +27,6 @@ Leh Ladakh
 
 Clone or download this repository.
 
-git clone https://github.com/your-username/your-repository-name.git
-
-
 Open the index.html file in your web browser.
 
 📂 Project Structure
